@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Almas Mzugu
 - 👀 I’m interested in Computer Programming
-- 💞️ I’m looking to collaborate on Laravel,Vue or flutter Projects
 - 📫 How to reach me 
 - email (imzugu.me@gmail.com),  phone (+255 659 329 435)
 
