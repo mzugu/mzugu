@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Almas Mzugu
+- ### 👋 Hi, I’m Almas Mzugu
 - 👀 I’m interested in Computer Programming
 - 📫 How to reach me 
 - email (imzugu.me@gmail.com),  phone (+255 659 329 435)
